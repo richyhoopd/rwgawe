@@ -1,3 +1,2 @@
-# ejemplo de miiguel
-jonwfegjkij wgrkjngjknjkgnaew grlknegrlknelkn
-
+# backend-node-platzi
+Proyecto del curso de Backend con Node 2019
